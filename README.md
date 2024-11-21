@@ -1,6 +1,6 @@
 <h1 align="left">💫 About Me:</h1>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="430">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="400" height="350">
 
 👋 Hi, I’m <b>Karan Shah</b>, a driven and passionate individual with a knack for solving complex problems and creating impactful solutions. With a strong foundation in Computer Science and hands-on experience, I thrive at the intersection of creativity and technology.
 
