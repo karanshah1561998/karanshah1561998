@@ -1,5 +1,14 @@
-# 💫 About Me:
-👋 Hi, I’m Karan Shah, a driven and passionate individual with a knack for solving complex problems and creating impactful solutions. With a strong foundation in Computer Science and hands-on experience, I thrive at the intersection of creativity and technology. <br><br>✨ I believe in continuous learning and enjoy exploring new technologies to stay ahead in the dynamic world of software development. Beyond work, I am deeply interested in mentorship, fostering collaboration, and helping teams grow and achieve their goals. <br><br>🌟 In my downtime, I enjoy reading about emerging tech trends, contributing to open-source projects, and engaging with the developer community to share knowledge and ideas. <br><br>🚀 With a growth mindset and a collaborative approach, I aim to contribute to projects that make a difference and create a positive impact.
+<h1 align="left">💫 About Me:</h1>
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="405">
+
+👋 Hi, I’m <b>Karan Shah</b>, a driven and passionate individual with a knack for solving complex problems and creating impactful solutions. With a strong foundation in Computer Science and hands-on experience, I thrive at the intersection of creativity and technology.
+
+✨ I believe in <b>continuous learning</b> and enjoy exploring new technologies to stay ahead in the dynamic world of software development. Beyond work, I am deeply interested in mentorship, fostering collaboration, and helping teams grow and achieve their goals.
+
+🌟 In my downtime, I enjoy <b>reading about emerging tech trends</b>, <b>contributing to open-source projects</b>, and <b>engaging with the developer community</b> to share knowledge and ideas.
+
+🚀 With a growth mindset and a collaborative approach, I aim to contribute to projects that make a difference and create a positive impact.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Karan196#8372) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karan19698) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-shah-3330) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28408533) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karanshah11111) 
