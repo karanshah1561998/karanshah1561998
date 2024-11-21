@@ -13,9 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanshah1561998&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanshah1561998/karanshah1561998/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanshah1561998/karanshah1561998/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karanshah1561998/karanshah1561998/output/github-snake.svg" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
