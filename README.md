@@ -5,7 +5,7 @@ I'm **Karan Shah**!
 - 🚀 Focused on delivering scalable, user-centric solutions and exploring cutting-edge technologies
 
 I’m passionate about solving complex problems and contributing to impactful projects that make a difference in the world!
-
+<!--
 ## 🌟 **Previously**
 
 I have worked as an **Associate Application Developer at ADP**, where I:
@@ -22,7 +22,7 @@ I also served as a **Full Stack Developer at Digimaze Marketing**, where I:
 - Built reusable frontend components in ReactJS, improving code maintainability and reducing development time for large-scale projects
 - Developed middleware in Express.js for logging, authentication, and error handling, enhancing application stability and security
 - Improved code quality and maintainability by implementing SonarQube changes, boosting application reliability and efficiency
-
+-->
 ## 🌱 **Currently**
 
 - 🔭 Exploring **data structures** and **performance optimization** techniques
