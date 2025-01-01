@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, you've arrived at @karanshah <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
+# <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi, I'm Karan Shah 👋! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
 I'm **Karan Shah**!
 - 👨‍💻 A passionate Full-Stack Developer with a Master's in Computer Science from **Stevens Institute of Technology**
 - 💡 Skilled in **ReactJS**, **Node.js**, **AngularJS**, **Java**, and **MongoDB**
@@ -25,9 +25,9 @@ I also served as a **Full Stack Developer at Digimaze Marketing**, where I:
 -->
 ## 🌱 **Currently**
 
-- 🔭 Exploring **data structures** and **performance optimization** techniques
-- 🌱 Learning about modern frameworks like **Next.js** and **GraphQL**
-- 💬 Open to mentorship opportunities, contributing to open-source projects, and collaborating with tech communities
+- 🔭 Diving deep into advanced **data structures** and **performance optimization** strategies to enhance application scalability
+- 🌱 Learning to build server-rendered and API-driven applications with **Next.js** and **GraphQL**
+- 💬 Actively seeking mentorship opportunities, contributing to impactful open-source projects, and collaborating with tech enthusiasts worldwide
 <!--
 ## 🎯 **Key Achievements**
 
