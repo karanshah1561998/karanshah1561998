@@ -7,7 +7,7 @@
 - 🚀 Passionate about building scalable, user-driven applications and embracing innovative technologies 
 - 🌟 Driven by a commitment to deliver impactful results in software development
 
-I’m passionate about solving complex problems and contributing to impactful projects that make a difference in the world!
+<!--I’m passionate about solving complex problems and contributing to impactful projects that make a difference in the world!-->
 
 ---
 <!--
