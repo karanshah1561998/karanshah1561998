@@ -1,6 +1,6 @@
 # <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi, I'm Karan Shah 👋! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
-# **Karan Shah**
-**Full-Stack Developer | Problem Solver | Technology Enthusiast**
+<!--# **Karan Shah**-->
+**Software Developer | Problem Solver | Technology Enthusiast**
 
 - 🎓 **Master's in Computer Science** from **Stevens Institute of Technology**  
 - 💻 Expertise in **ReactJS**, **Node.js**, **AngularJS**, **Java**, **MongoDB**, and **MySQL**  
@@ -27,13 +27,12 @@ I also served as a **Full Stack Developer at Digimaze Marketing**, where I:
 - Built reusable frontend components in ReactJS, improving code maintainability and reducing development time for large-scale projects
 - Developed middleware in Express.js for logging, authentication, and error handling, enhancing application stability and security
 - Improved code quality and maintainability by implementing SonarQube changes, boosting application reliability and efficiency
--->
+
 ## 🌱 **Currently**
 - 🔍 Diving deep into **data structures** and **performance optimization** strategies to enhance application scalability  
 - 📚 Learning to build **server-rendered** and **API-driven applications** with **Next.js** and **GraphQL**  
 - 🤝 Actively seeking mentorship opportunities, contributing to open-source projects, and collaborating with tech enthusiasts worldwide
-
----
+-->
 <!--
 ## 🎯 **Key Achievements**
 
